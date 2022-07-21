@@ -1,0 +1,1 @@
+The idea for this project is to create a simple webscraper that will be abstract enough to function across multiple urls to scrape the same data. This scraper will then be set up on a crontab to check the urls regularly for new shoes. I am doing this because one of my coworkers has an interest in nice shoes.
